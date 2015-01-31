@@ -1,0 +1,21 @@
+How to Github: A Guide by Rand and Eric
+Checking in changes:
+1. Open Github
+2. Sign into Github
+3. Choose your branch.
+4. Click on sync.
+
+Merging code: (complete above steps first)
+1. Open GitShell.
+2. Wait for GitShell to display your branch.
+3. Enter "git merge origin [insert branch here]". 
+	(origin means github)
+4. If there are no conflicts you are done. (if there are merge conflicts see section on merge conflics).
+
+Merge Conflicts:
+1.Go into eclipse and it will display both versions of the conflict. 
+2. Fix conflicts in code. (Note that duplicate functions may need to be deleted).
+3. Save code.
+4. Re-format code. (Ctrl + Shift + F)
+5. Repeat Merging Code.
+6. Repeat Syncing process.
